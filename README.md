@@ -4,4 +4,7 @@ Hi there! This is my public portfolio, with everything I feel like sharing publi
 
 ## Overview
 ### Commu-MNIST Revolution
-My portion of a group final project for a Data Mining course. Involved generating a MNIST-like Cyrillic dataset and implementing and comparing the results of SVMs using different hyperparameters to classify the data. 
+My portion of a group final project for a Data Mining course. Involved generating a MNIST-like Cyrillic dataset and implementing and comparing the results of SVMs using different hyperparameters to classify the data.
+
+### Operating Systems Assignments
+A collection of assignments from a class on Operating Systems, where assignments revolved around creating simulations of various operating system component systems in C.

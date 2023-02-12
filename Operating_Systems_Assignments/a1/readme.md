@@ -1,0 +1,5 @@
+README:
+
+a) Working perfectly. Somewhat of a linear implementation, the program is composed of two parts at the macro level - a preloop initialisation block where information such as the prompt and the path are loaded and processed from files, and a mainloop portion that is the crux of the shell program.
+
+b) Also working perfectly. The program uses the .csc360sh file to store prompt and path data, and supports up to 7 arguments being passed with any command. Arguments are processed with the aid of a temporary file that is deleted at termination, and this allows the arguments to be processed with the more powerful file processing functionality available. The solution is slightly less memory efficient than it could be - I did my argument processing in normal **char arrays but execve has to recieve it's arguments in array of pointers form - meaning some reprocessing is required.

@@ -8,8 +8,8 @@ My main language of choice is Python, but I also have plenty of C experience, as
 ### Commu-MNIST Revolution
 My portion of a group final project for a Data Mining course. Involved generating a MNIST-like Cyrillic dataset and implementing and comparing the results of SVMs using different hyperparameters to classify the data.
 
+### Data Mining Assignments
+Earlier assignments from the same course on Data Mining, assignments revolve around Machine Learning algorithms. Solutions are implemented in Python via Jupyter Notebooks.
+
 ### Operating Systems Assignments
 A collection of assignments from a class on Operating Systems, where assignments revolved around creating simulations of various operating system component systems in C.
-
-### Data Mining Assignments
-Assignments from a course on Data Mining revolving around Machine Learning algorithms. Solutions are implemented in Python via Jupyter Notebooks.

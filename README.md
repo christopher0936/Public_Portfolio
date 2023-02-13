@@ -10,3 +10,6 @@ My portion of a group final project for a Data Mining course. Involved generatin
 
 ### Operating Systems Assignments
 A collection of assignments from a class on Operating Systems, where assignments revolved around creating simulations of various operating system component systems in C.
+
+### Data Mining Assignments
+Assignments from a course on Data Mining revolving around Machine Learning algorithms. Solutions are implemented in Python via Jupyter Notebooks.

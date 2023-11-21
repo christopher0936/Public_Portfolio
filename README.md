@@ -13,3 +13,6 @@ Earlier assignments from the same course on Data Mining, assignments revolve aro
 
 ### Operating Systems Assignments
 A collection of assignments from a class on Operating Systems, where assignments revolved around creating simulations of various operating system component systems in C.
+
+### Programming Languages Coursework
+Coursework from a crash-course style class on Programming Languages, where we ran through several different languages including OCaml, Racket, Ruby, and APL, with an aim of gaining exposure to an array of different language types, with a focus on functional vs object-oriented programming, static vs dynamic typing, and interpreted vs compiled languages, both in theory and in practice, through hands on exercises and assignments.

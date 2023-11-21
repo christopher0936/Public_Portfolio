@@ -1,0 +1,12 @@
+Forth in Ruby by Chris McLaughlin README notes:
+
+Program can be run as standard ruby file using ruby3.
+All stages of the assignment are done and working.
+
+- Strings are not supported across multiple lines as this was not required by the spec
+- Comments are supported!
+- Don't attempt nested word definitions, this wasn't required bu the spec, is not specially handled and wasn't tested for, and I have no idea if it will work.
+- Without a proper bracketing or indenting system, nested ifs assume a given encountered else is for the most recently opened nested if statement that has not yet been closed out with a then.
+- BEGIN...UNTILs and DO...LOOPs can also be nested!
+- HEAP is size 10,000
+- "?" and ";"" weren't explained in the spec. Inferring from the example, I took "?" to be a combo of @ and ., where the result is it NOT being on the stack. I didn't implement ";" beyond its use as the closing word for defining new words.

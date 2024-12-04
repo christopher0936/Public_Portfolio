@@ -6,7 +6,7 @@ My languages of choice are Python and Javascript (including Vue), but I also hav
 
 ## My Work
 ### [ChattBattlers Website](https://github.com/christopher0936/Public_Portfolio/tree/main/chatbattlers-site)
-Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game ([which you should check out!](https://chatbattlers.com/))
+Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game ([which you should check out!](https://chatbattlers.com/)).
 
 ### [Programming Languages Coursework](https://github.com/christopher0936/Public_Portfolio/tree/main/Programming_Languages_Cousework)
 Coursework from a crash-course style class on Programming Languages, where we ran through several different languages including OCaml, Racket, Ruby, and APL, with an aim of gaining exposure to an array of different language types, with a focus on functional vs object-oriented programming, static vs dynamic typing, and interpreted vs compiled languages, both in theory and in practice, through hands on exercises and assignments.

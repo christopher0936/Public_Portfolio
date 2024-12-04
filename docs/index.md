@@ -6,7 +6,7 @@ My languages of choice are Python and Javascript (including Vue), but I also hav
 
 ## My Work
 ### ChattBattlers Website
-Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game (which you should check out!)
+Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game ([which you should check out!](https://chatbattlers.com/))
 
 ### Commu-MNIST Revolution
 My portion of a group final project for a Data Mining course. Involved generating a MNIST-like Cyrillic dataset and implementing and comparing the results of SVMs using different hyperparameters to classify the data.

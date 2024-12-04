@@ -1,10 +1,13 @@
 # Chris McLaughlin's Public Portfolio
 
-Hi there! My name is Chris McLaughlin and this is my public portfolio, with everything I feel like sharing publicly for any who are interested! In it you'll mostly find past personal projects and coursework. While most code should be runnable "out-of-the-box", this may not hold true for code which has been sanitized for privacy or copyright reasons. I plan to add to this repo continually over time, however there should be enough to get a general feel for my coding style or get some inspiration for your own projects!
+My name is Chris McLaughlin and this is my public portfolio, with everything I feel I can share publicly for any who are interested! In it you'll find past personal projects, the professional work I'm able to share, and coursework. While most code should be runnable "out-of-the-box", this may not be the case for code which has been sanitized for privacy or copyright reasons. I plan to add to this continually over time, however there should be enough here to get a general feel for my coding style or get some inspiration for your own projects!
 
-My main language of choice is Python, but I also have plenty of C experience, as well as exposure to Java, Javascript, and OCaml. I work in both Windows and Linux dev environments and have a talent for automation with scripting.
+My languages of choice are Python and Javascript (including Vue), but I also have experience with C, as well as exposure to Java and OCaml. I work in both Windows and Linux development environments and have a talent for automation with scripting.
 
-## Overview
+## My Work
+### ChattBattlers Website
+Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game (which you should check out!)
+
 ### Commu-MNIST Revolution
 My portion of a group final project for a Data Mining course. Involved generating a MNIST-like Cyrillic dataset and implementing and comparing the results of SVMs using different hyperparameters to classify the data.
 

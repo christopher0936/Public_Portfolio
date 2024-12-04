@@ -5,8 +5,11 @@ I'm Chris McLaughlin and this is my public portfolio, with everything I feel I c
 My languages of choice are Python and Javascript (including Vue), but I also have experience with C, as well as exposure to Java and OCaml. I work in both Windows and Linux development environments and have a talent for automation with scripting.
 
 ## My Work
+### [Location-Tagged File Upload Server](https://github.com/christopher0936/Public_Portfolio/tree/main/Location_Tagged_File_Upload_Server)
+A group project I was a part of (see project readme for collaborators) to create a lightweight full-stack web application that allows a user to upload a file to a server, appending user location in the form of a city string via the OpenStreetMap API which determines the server directory the file will be uploaded to. The app features SHA-256 hash verification of uploaded files as well as active feedback of all files currently uploaded. I was responsible for implementation of all functionality related to file hash checking, including the backend endpoint as well as the functionality required to list uploaded files to the user, on both frontend and backend.
+
 ### [ChattBattlers Website](https://github.com/christopher0936/Public_Portfolio/tree/main/chatbattlers-site)
-Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game ([which you should check out!](https://chatbattlers.com/))
+Freelance Web Development Project. Shared with permission. Built a Nuxt3 Content site utilising Vue, JS, and TailwindCSS for a client releasing a Twitch-integrated chat-interaction game ([which you should check out!](https://chatbattlers.com/)).
 
 ### [Programming Languages Coursework](https://github.com/christopher0936/Public_Portfolio/tree/main/Programming_Languages_Cousework)
 Coursework from a crash-course style class on Programming Languages, where we ran through several different languages including OCaml, Racket, Ruby, and APL, with an aim of gaining exposure to an array of different language types, with a focus on functional vs object-oriented programming, static vs dynamic typing, and interpreted vs compiled languages, both in theory and in practice, through hands on exercises and assignments.

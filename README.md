@@ -5,7 +5,7 @@ I'm Chris McLaughlin, a Cybersecurity Professional and Full Stack Developer, and
 As a security professional, I'm interested in AI-empowered threat detection and next-generation firewalls and network infrastructure. I have course experience with both Palo Alto and Cisco network security devices and am passionate about security infrastructure. My languages of choice are Python and Javascript (including Vue), but I also have experience with C, as well as exposure to Java and OCaml. I work in both Windows and Linux development environments and have a talent for automation with scripting.
 
 ## My Work
-### [ML-Enabled Phishing Email Detection](https://github.com/christopher0936/Public_Portfolio/tree/main/ML_Enabled_Phishing_Email_Detection)
+### [ML-Powered Phishing Email Detection](https://github.com/christopher0936/Public_Portfolio/tree/main/ML_Powered_Phishing_Email_Detection)
 Capstone Project of the Master of Telecommunications and Information Security program at the University of Victoria. Focused on identifying phishing emails utilising machine learning methods including Naive Bayes classifers, Support Vector Machines, Random Forests, and Logistic Regression. Achieved an F1 performance of 0.9967 utilising an RBF kernel SVM with TF-IDF feature extraction. Model exceeded performance of legacy email filtering solutions and with adequate software support is suitable for deployment as an organisational email filter.
 
 ### [Location-Tagged File Upload Server](https://github.com/christopher0936/Public_Portfolio/tree/main/Location_Tagged_File_Upload_Server)
